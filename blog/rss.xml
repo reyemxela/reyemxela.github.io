@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>blog</title>
+<link>http://localhost:8000/</link>
+<description>Alex Meyer's blog</description>
+
+<item>
+<title>First test</title>
+<link>http://localhost:8000/blog/first-test/</link>
+<description>
+<![CDATA[
+<p>
+First test of the new site. _testing_ markdown **stuff**&nbsp;<a href="http://localhost:8000/blog/first-test/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/first-test/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>
