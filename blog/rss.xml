@@ -12,7 +12,7 @@
 <description>
 <![CDATA[
 <p>
-First test of the new site. _testing_ markdown **stuff**&nbsp;<a href="http://localhost:8000/blog/first-test/">...</a>
+First test of the new site. testing markdown stuff&nbsp;<a href="http://localhost:8000/blog/first-test/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/first-test/">Read More</a></p>
 ]]>
