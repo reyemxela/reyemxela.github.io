@@ -162,18 +162,17 @@ nav .separator {
   margin-right: 1rem;
 }
 
-ul.projects {
+ul {
   list-style: none;
-  display: flex;
-  flex-wrap: wrap;
   padding: 0;
 }
 
-ul.projects > li {
+li {
   padding: .5rem 1rem;
-  margin-right: 2rem;
-  margin-bottom: 2rem;
-  flex: 20rem;
+}
+
+li p {
+  margin-left: 1rem;
 }
 
 table, th, td {
